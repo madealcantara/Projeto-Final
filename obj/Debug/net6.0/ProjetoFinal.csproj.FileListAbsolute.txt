@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\ProjetoFinal\bin\Debug\net6.0\ProjetoFinal.exe
+C:\Users\Admin\source\repos\ProjetoFinal\bin\Debug\net6.0\ProjetoFinal.deps.json
+C:\Users\Admin\source\repos\ProjetoFinal\bin\Debug\net6.0\ProjetoFinal.runtimeconfig.json
+C:\Users\Admin\source\repos\ProjetoFinal\bin\Debug\net6.0\ProjetoFinal.dll
+C:\Users\Admin\source\repos\ProjetoFinal\bin\Debug\net6.0\ProjetoFinal.pdb
+C:\Users\Admin\source\repos\ProjetoFinal\obj\Debug\net6.0\ProjetoFinal.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\ProjetoFinal\obj\Debug\net6.0\ProjetoFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\ProjetoFinal\obj\Debug\net6.0\ProjetoFinal.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ProjetoFinal\obj\Debug\net6.0\ProjetoFinal.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ProjetoFinal\obj\Debug\net6.0\ProjetoFinal.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ProjetoFinal\obj\Debug\net6.0\ProjetoFinal.dll
+C:\Users\Admin\source\repos\ProjetoFinal\obj\Debug\net6.0\refint\ProjetoFinal.dll
+C:\Users\Admin\source\repos\ProjetoFinal\obj\Debug\net6.0\ProjetoFinal.pdb
+C:\Users\Admin\source\repos\ProjetoFinal\obj\Debug\net6.0\ProjetoFinal.genruntimeconfig.cache
+C:\Users\Admin\source\repos\ProjetoFinal\obj\Debug\net6.0\ref\ProjetoFinal.dll
